@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<script>/* Language: ?lang=hi|en, else the last choice, else English. Shared with the lesson and practice. */
+(function(){var q=new URLSearchParams(location.search).get('lang'),l=null;try{l=localStorage.getItem('crossroads-lang')}catch(e){}
+l=(q||l)==='hi'?'hi':'en';if(q){try{localStorage.setItem('crossroads-lang',l)}catch(e){}}window.CROSSROADS_LANG=l;document.documentElement.lang=l})();</script>
+<title>Crossroads · Learn with Swiftee</title>
+<meta name="description" content="A Grade 8 geometry game with Swiftee: linear pairs and vertically opposite angles. In English and Hindi.">
+<meta name="theme-color" content="#237361">
+<link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+<link rel="preload" href="assets/nunito.21dd5ae8.ttf" as="font" type="font/ttf" crossorigin>
+<style>
+@font-face{font-family:'Nunito';src:url(assets/nunito.21dd5ae8.ttf) format('truetype');font-weight:200 1000;font-display:swap}
+@font-face{font-family:'Noto Sans Devanagari';src:url(assets/noto-sans-devanagari.6952516e.ttf) format('truetype');font-weight:400 800;font-display:swap}
+:root{--ink:#193d39;--muted:#4b625b;--green:#237361;--green-deep:#155344;--paper:#fffdf6;--line:#e1e4d6;--honey:#ffd65c;--honey-edge:#d9a21b;
+ --night:#1f1a3a;--night-2:#3a2f6b;--amber:#ffd06a;
+ font-family:'Nunito','Noto Sans Devanagari',system-ui,sans-serif;color:var(--ink);background:#f6f1e3 url(assets/street.940500e4.jpg) center bottom/cover no-repeat fixed}
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%}
+body{min-height:100svh;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:64px 16px 32px;
+ background:linear-gradient(180deg,rgba(246,241,227,.78) 0%,rgba(246,241,227,.55) 55%,rgba(246,241,227,.15) 100%)}
+a{color:inherit}
+button,a{-webkit-tap-highlight-color:transparent}
+:focus-visible{outline:3px solid #bd691d;outline-offset:4px}
+
+.lang-switch{position:fixed;top:12px;right:12px;z-index:5;display:flex;gap:2px;padding:3px;border-radius:99px;background:rgba(255,253,246,.96);border:1px solid #d8e2d4;box-shadow:0 4px 14px rgba(25,61,57,.12)}
+.lang-switch button{border:0;background:none;border-radius:99px;padding:6px 14px;font:700 14px/1.2 'Nunito','Noto Sans Devanagari',system-ui,sans-serif;color:var(--muted);cursor:pointer}
+.lang-switch button[aria-pressed=true]{background:var(--green);color:#fff;cursor:default}
+
+.hub{width:100%;max-width:980px;display:flex;flex-direction:column;align-items:center;gap:22px}
+.hello{display:flex;align-items:flex-end;gap:6px;max-width:640px;width:100%}
+.swiftee{flex:none;width:150px;height:150px;background:url(assets/swiftee-waving.bbd5cc77.webp) 0 0/600% 500% no-repeat;margin:0 -8px -10px -10px}
+.bubble{position:relative;flex:1;background:#fff;border:2px solid #bfe0d6;border-radius:22px;padding:16px 20px;margin-bottom:46px;box-shadow:0 6px 0 rgba(47,156,143,.12)}
+.bubble:before{content:'';position:absolute;left:-13px;bottom:18px;width:22px;height:22px;background:#fff;border-left:2px solid #bfe0d6;border-bottom:2px solid #bfe0d6;transform:rotate(45deg) skew(10deg,10deg);border-radius:0 0 0 5px}
+.eyebrow{display:block;font-size:12px;font-weight:800;letter-spacing:1.6px;color:var(--green);text-transform:uppercase}
+html[lang=hi] .eyebrow{letter-spacing:0;font-size:13px}
+h1{margin:4px 0 4px;font-size:clamp(30px,4.4vw,46px);line-height:1.12;font-weight:800;letter-spacing:-.5px}
+html[lang=hi] h1{letter-spacing:0;line-height:1.3}
+.bubble p{margin:0;font-size:clamp(16px,1.8vw,19px);line-height:1.5;color:var(--muted)}
+
+.choices{display:grid;grid-template-columns:1fr 1fr;gap:20px;width:100%}
+.card{position:relative;display:flex;flex-direction:column;gap:10px;min-height:250px;padding:24px 24px 22px;border-radius:26px;text-decoration:none;overflow:hidden;
+ box-shadow:0 18px 40px rgba(25,61,57,.16);transition:transform .15s,box-shadow .15s}
+.card:hover{transform:translateY(-3px);box-shadow:0 24px 46px rgba(25,61,57,.22)}
+.card:active{transform:translateY(1px)}
+.card .art{height:92px;margin:-4px 0 4px}
+.card .art svg{height:100%;width:auto;display:block}
+.card h2{margin:0;font-size:clamp(24px,2.6vw,30px);font-weight:800;line-height:1.2}
+.card p{margin:0;font-size:16px;line-height:1.5;flex:1}
+.card .go{align-self:flex-start;display:inline-flex;align-items:center;gap:14px;margin-top:6px;padding:12px 20px;border-radius:14px;font-weight:800;font-size:17px}
+.card .go span{font-size:21px;line-height:1}
+.lesson{background:rgba(255,253,246,.97);border:1px solid var(--line);color:var(--ink)}
+.lesson p{color:var(--muted)}
+.lesson .go{background:var(--green);color:#fff;box-shadow:0 5px 0 var(--green-deep)}
+.practice{background:linear-gradient(160deg,var(--night) 0%,var(--night-2) 100%);border:1px solid #4a3f86;color:#fff}
+.practice p{color:#d9d4f2}
+.practice .go{background:var(--amber);color:#2b2540;box-shadow:0 5px 0 #c99a2e}
+.tag{position:absolute;top:18px;right:18px;font-size:12px;font-weight:800;padding:4px 10px;border-radius:99px}
+.lesson .tag{background:#e4efe9;color:var(--green)}
+.practice .tag{background:rgba(255,255,255,.14);color:#fff}
+.foot{margin:0;font-size:13px;color:var(--muted);text-align:center;background:rgba(255,253,246,.8);padding:6px 14px;border-radius:99px}
+
+@media (max-width:640px){
+ body{padding-top:60px;justify-content:flex-start}
+ .choices{grid-template-columns:1fr}
+ .card{min-height:0}
+ .swiftee{width:104px;height:104px}
+ .bubble{margin-bottom:30px;padding:12px 16px}
+}
+@media (max-height:620px) and (min-width:641px){.card{min-height:0}.card .art{height:64px}.swiftee{width:110px;height:110px}}
+@media (prefers-reduced-motion:reduce){.card{transition:none}}
+</style>
+</head>
+<body>
+<div class="lang-switch" role="group" aria-label="Language · भाषा">
+ <button type="button" lang="en" data-lang="en">English</button>
+ <button type="button" lang="hi" data-lang="hi">हिंदी</button>
+</div>
+
+<main class="hub">
+ <div class="hello">
+  <div class="swiftee" id="swiftee" aria-hidden="true"></div>
+  <div class="bubble">
+   <span class="eyebrow" data-en="Grade 8 · Geometry" data-hi="कक्षा 8 · ज्यामिति">Grade 8 · Geometry</span>
+   <h1 data-en="Crossroads" data-hi="चौराहा">Crossroads</h1>
+   <p data-en="Hi! I’m Swiftee. Two roads cross on my map. What shall we do today?" data-hi="नमस्ते! मैं स्विफ़्टी हूँ। मेरे नक्शे पर दो सड़कें एक-दूसरे को काटती हैं। आज क्या करें?">Hi! I’m Swiftee. Two roads cross on my map. What shall we do today?</p>
+  </div>
+ </div>
+
+ <nav class="choices" aria-label="Choose" data-aria-en="Choose" data-aria-hi="चुनो">
+  <a class="card lesson" id="go-lesson" href="lesson.html">
+   <span class="tag" data-en="32 screens" data-hi="32 स्क्रीन">32 screens</span>
+   <div class="art" aria-hidden="true"><svg viewBox="0 0 140 92"><path d="M10 62H130" stroke="#4f625b" stroke-width="5" stroke-linecap="round"/><path d="M40 88L96 6" stroke="#4f625b" stroke-width="5" stroke-linecap="round"/><path d="M92 62A34 34 0 0 0 76 34" fill="none" stroke="#df9a36" stroke-width="6" stroke-linecap="round"/><path d="M76 34A34 34 0 0 0 24 62" fill="none" stroke="#398baf" stroke-width="6" stroke-linecap="round"/><circle cx="58" cy="62" r="5" fill="#fffdf6" stroke="#304e42" stroke-width="3"/></svg></div>
+   <h2 data-en="Lesson" data-hi="पाठ">Lesson</h2>
+   <p data-en="Learn with Swiftee: angles, linear pairs and vertically opposite angles, step by step." data-hi="स्विफ़्टी के साथ सीखो: कोण, रैखिक युग्म और शीर्षाभिमुख कोण, एक-एक कदम।">Learn with Swiftee: angles, linear pairs and vertically opposite angles, step by step.</p>
+   <span class="go"><b data-en="Start the lesson" data-hi="पाठ शुरू करो">Start the lesson</b> <span aria-hidden="true">→</span></span>
+  </a>
+  <a class="card practice" id="go-practice" href="practice.html">
+   <span class="tag" data-en="4 rounds" data-hi="4 राउंड">4 rounds</span>
+   <div class="art" aria-hidden="true"><svg viewBox="0 0 160 92"><g transform="rotate(-8 34 46)"><rect x="6" y="22" width="56" height="40" rx="8" fill="#f7efd9" stroke="#c99a5b" stroke-width="4"/><text x="34" y="50" text-anchor="middle" font-family="Nunito,sans-serif" font-weight="800" font-size="20" fill="#2b2540">50°</text></g><g transform="rotate(6 84 40)"><rect x="58" y="16" width="52" height="40" rx="8" fill="#f7efd9" stroke="#c99a5b" stroke-width="4"/><text x="84" y="44" text-anchor="middle" font-family="Nunito,sans-serif" font-weight="800" font-size="22" fill="#2b2540">?</text></g><g transform="rotate(-4 130 50)"><rect x="104" y="28" width="52" height="40" rx="8" fill="#f7efd9" stroke="#c99a5b" stroke-width="4"/><text x="130" y="56" text-anchor="middle" font-family="Nunito,sans-serif" font-weight="800" font-size="18" fill="#2b2540">130°</text></g></svg></div>
+   <h2 data-en="Practice" data-hi="अभ्यास">Practice</h2>
+   <p data-en="Already learned it? Put the signboards back at four junctions." data-hi="पहले ही सीख लिया? चार चौराहों पर साइनबोर्ड वापस लगाओ।">Already learned it? Put the signboards back at four junctions.</p>
+   <span class="go"><b data-en="Play the practice" data-hi="अभ्यास खेलो">Play the practice</b> <span aria-hidden="true">→</span></span>
+  </a>
+ </nav>
+
+ <p class="foot" data-en="Turn the sound on to hear Swiftee. Best on a tablet held sideways." data-hi="स्विफ़्टी को सुनने के लिए आवाज़ चालू रखो। टैबलेट को आड़ा रखकर खेलना सबसे अच्छा है।">Turn the sound on to hear Swiftee. Best on a tablet held sideways.</p>
+</main>
+
+<script>
+'use strict';
+// Start screen: choose the lesson or the practice. The language choice is shared with both.
+(function(){
+ const TITLE={en:'Crossroads · Learn with Swiftee',hi:'चौराहा · स्विफ़्टी के साथ सीखो'};
+ function apply(l){
+  document.documentElement.lang=l;document.title=TITLE[l];
+  document.querySelectorAll('[data-en]').forEach(e=>{e.textContent=e.dataset[l]});
+  document.querySelectorAll('[data-aria-en]').forEach(e=>e.setAttribute('aria-label',e.getAttribute('data-aria-'+l)));
+  document.querySelectorAll('.lang-switch button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.lang===l));
+  // Online (Vercel clean URLs) the pages are /lesson and /practice; opened as files they are .html.
+  const ext=location.protocol==='file:'?'.html':'';
+  document.getElementById('go-lesson').href='lesson'+ext+'?lang='+l;
+  document.getElementById('go-practice').href='practice'+ext+'?lang='+l;
+ }
+ document.querySelectorAll('.lang-switch button').forEach(b=>b.onclick=()=>{const l=b.dataset.lang;
+  try{localStorage.setItem('crossroads-lang',l)}catch(e){}
+  const u=new URL(location.href);u.searchParams.delete('lang');history.replaceState(null,'',u.href);apply(l)});
+ apply(window.CROSSROADS_LANG);
+
+ // Swiftee waves: 30 frames on a 6 x 5 sheet, 20 fps, then rests on the first frame for a moment.
+ const el=document.getElementById('swiftee'),still=matchMedia('(prefers-reduced-motion: reduce)');
+ let f=0,last=0,rest=0;
+ function tick(t){requestAnimationFrame(tick);if(still.matches||document.hidden)return;if(t-last<50)return;last=t;
+  if(rest>0){rest--;return}f=(f+1)%30;if(f===0)rest=40;
+  el.style.backgroundPosition=`${(f%6)/5*100}% ${Math.floor(f/6)/4*100}%`}
+ requestAnimationFrame(tick);
+})();
+</script>
+</body>
+</html>

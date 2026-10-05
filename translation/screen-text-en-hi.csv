@@ -1,0 +1,398 @@
+﻿Page,Area,English,Hindi
+Lesson,HTML,"<html lang=""en"">","<html lang=""hi"">"
+Lesson,HTML,Crossroads · Learn with Swiftee,चौराहा · स्विफ़्टी के साथ सीखो
+Lesson,HTML,A SMALL JOURNEY INTO GEOMETRY,ज्यामिति की एक छोटी यात्रा
+Lesson,HTML,One crossroads.,एक चौराहा।
+Lesson,HTML,Two useful ideas.,दो काम की बातें।
+Lesson,HTML,Two roads cross on Swiftee’s map. Measure one angle. Can we find the other three?,स्विफ़्टी के नक्शे पर दो सड़कें एक-दूसरे को काटती हैं। एक कोण मापो। क्या हम बाकी तीन कोण ज्ञात कर सकते हैं?
+Lesson,HTML,Look at the map. Make a drawing. Learn two rules. Use them.,नक्शा देखो। एक चित्र बनाओ। दो नियम सीखो। उनका उपयोग करो।
+Lesson,HTML,Explore with Swiftee,स्विफ़्टी के साथ शुरू करो
+Lesson,HTML,Resume lesson,पाठ वहीं से जारी रखो
+Lesson,HTML,Already learned this? Try the practice rounds ↗,यह पहले ही सीख लिया? अभ्यास के राउंड खेलो ↗
+Lesson,HTML,Grade 8,कक्षा 8
+Lesson,HTML,At your own pace,अपनी गति से
+Lesson,HTML,Sound optional,आवाज़ ज़रूरी नहीं
+Lesson,HTML,Hi! I’m Swiftee. Two roads cross on my map. Let’s look.,"नमस्ते! मैं स्विफ़्टी हूँ। मेरे नक्शे पर दो सड़कें एक-दूसरे को काटती हैं। चलो, देखते हैं।"
+Lesson,HTML,Lesson chapters,पाठ के अध्याय
+Lesson,HTML,<span>01 <b>Angles</b></span><span>02 <b>Linear pair</b></span><span>03 <b>Opposite angles</b></span><span>04 <b>Use the rules</b></span>,<span>01 <b>कोण</b></span><span>02 <b>रैखिक युग्म</b></span><span>03 <b>शीर्षाभिमुख कोण</b></span><span>04 <b>नियमों का उपयोग</b></span>
+Lesson,HTML,Lesson progress,पाठ की प्रगति
+Lesson,HTML,Voice off,आवाज़ बंद
+Lesson,HTML,Read this explanation aloud,यह बात पढ़कर सुनाओ
+Lesson,HTML,♫ Listen,♫ सुनो
+Lesson,HTML,Give me a hint,मुझे संकेत दो
+Lesson,HTML,Lesson navigation,पाठ में आगे-पीछे जाओ
+Lesson,HTML,← Back,← पीछे
+Lesson,HTML,"<button id=""next"" class=""primary"">Continue <span>→</span></button>","<button id=""next"" class=""primary"">आगे बढ़ो <span>→</span></button>"
+Lesson,HTML,JOURNEY COMPLETE,यात्रा पूरी हुई
+Lesson,HTML,One measurement.,एक माप।
+Lesson,HTML,Four angles.,चार कोण।
+Lesson,HTML,"You used a map, a drawing, and two rules.","तुमने एक नक्शे, एक चित्र और दो नियमों का उपयोग किया।"
+Lesson,HTML,01 / LINEAR PAIRS,01 / रैखिक युग्म
+Lesson,HTML,Share one arm.,एक भुजा साझा।
+Lesson,HTML,Add up to 180°.,योग 180°।
+Lesson,HTML,Adjacent angles. The outer arms make a straight line.,आसन्न कोण। बाहरी भुजाएँ एक सीधी रेखा बनाती हैं।
+Lesson,HTML,<span>02 / VERTICALLY OPPOSITE</span><h2>Share no arm.<br>Equal.</h2><p>Two straight lines cross. Vertically opposite angles share no arm. They are equal.</p>,<span>02 / शीर्षाभिमुख कोण</span><h2>कोई भुजा साझा नहीं।<br>बराबर।</h2><p>दो सीधी रेखाएँ एक-दूसरे को काटती हैं। शीर्षाभिमुख कोण कोई भुजा साझा नहीं करते। वे बराबर होते हैं।</p>
+Lesson,HTML,Try the four practice rounds →,अभ्यास के चार राउंड खेलो →
+Lesson,HTML,Explore the lesson again,पाठ फिर से देखो
+Lesson,STEPS,What do you see at this crossing?,इस चौराहे पर तुम्हें क्या दिखता है?
+Lesson,STEPS,This is my neighbourhood map. What do you notice? Tap one.,यह मेरे मोहल्ले का नक्शा है। तुम्हारा ध्यान किस बात पर जाता है? किसी एक पर टैप करो।
+Lesson,STEPS,Let’s look,चलो देखें
+Lesson,STEPS,The roads are straight,सड़कें सीधी हैं
+Lesson,STEPS,Yes. Both roads are **straight**. That will help us a lot.,हाँ। दोनों सड़कें **सीधी** हैं। इससे हमें बहुत मदद मिलेगी।
+Lesson,STEPS,The roads cross at one point,सड़कें एक बिंदु पर काटती हैं
+Lesson,STEPS,Yes. The two roads cross at **one point**. We will use that point.,हाँ। दोनों सड़कें **एक बिंदु** पर एक-दूसरे को काटती हैं। हम उसी बिंदु का उपयोग करेंगे।
+Lesson,STEPS,Some corners look wider,कुछ कोने ज़्यादा खुले दिखते हैं
+Lesson,STEPS,Yes. Some corners are wider than others. We will learn how to measure that.,हाँ। कुछ कोने दूसरों से ज़्यादा खुले हैं। हम सीखेंगे कि इसे कैसे मापें।
+Lesson,STEPS,This is an angle.,यह एक कोण है।
+Lesson,STEPS,Watch the orange turn from one road to the other. This turn is an **angle**. A bigger turn makes a bigger angle.,"देखो, नारंगी रंग एक सड़क से दूसरी सड़क तक घूमता है। यह घुमाव एक **कोण** है। जितना बड़ा घुमाव, उतना बड़ा कोण।"
+Lesson,STEPS,mode:'Watch',mode:'देखो'
+Lesson,STEPS,Is the angle the road?,क्या सड़क ही कोण है?
+Lesson,STEPS,**No.** The road is not the angle. The angle is the **turn** from one road to the other.,**नहीं।** सड़क कोण नहीं है। एक सड़क से दूसरी सड़क तक का **घुमाव** कोण है।
+Lesson,STEPS,Which angle is bigger?,कौन-सा कोण बड़ा है?
+Lesson,STEPS,The two roads make four angles. Tap the bigger one: ∠1 or ∠2.,दोनों सड़कें मिलकर चार कोण बनाती हैं। बड़े कोण पर टैप करो: ∠1 या ∠2।
+Lesson,STEPS,Your turn,तुम्हारी बारी
+Lesson,STEPS,Bigger turn = bigger angle. Compare the turn of ∠1 and ∠2.,बड़ा घुमाव = बड़ा कोण। ∠1 और ∠2 के घुमाव की तुलना करो।
+Lesson,STEPS,Yes. ∠2 has the bigger turn. ∠2 is bigger.,हाँ। ∠2 का घुमाव बड़ा है। ∠2 बड़ा है।
+Lesson,STEPS,Look at the two coloured angles. The blue turn is bigger than the orange turn. Tap ∠2.,दोनों रंगीन कोणों को देखो। नीला घुमाव नारंगी घुमाव से बड़ा है। ∠2 पर टैप करो।
+Lesson,STEPS,Keep only the lines.,केवल रेखाएँ रखो।
+Lesson,STEPS,"To study angles, we only need the two straight lines.",कोणों को समझने के लिए हमें केवल दो सीधी रेखाएँ चाहिए।
+Lesson,STEPS,From map to drawing,नक्शे से चित्र तक
+Lesson,STEPS,Why take away the houses?,घरों को क्यों हटाया?
+Lesson,STEPS,The houses do not change the angle. Only the two lines and the point where they cross matter.,घरों से कोण नहीं बदलता। केवल दो रेखाएँ और वह बिंदु मायने रखते हैं जहाँ वे एक-दूसरे को काटती हैं।
+Lesson,STEPS,Arms and vertex.,भुजाएँ और शीर्ष।
+Lesson,STEPS,The two sides of an angle are called **arms**. The point where the arms start is called the **vertex**.,"कोण की दोनों रेखाओं को **भुजाएँ** कहते हैं। जिस बिंदु से भुजाएँ शुरू होती हैं, उसे **शीर्ष** कहते हैं।"
+Lesson,STEPS,Two new words,दो नए शब्द
+Lesson,STEPS,"If I draw the arms longer, is the angle bigger?","अगर मैं भुजाएँ लंबी कर दूँ, तो क्या कोण बड़ा हो जाएगा?"
+Lesson,STEPS,**No.** Longer arms do not change the turn. The angle stays the same.,**नहीं।** लंबी भुजाओं से घुमाव नहीं बदलता। कोण वही रहता है।
+Lesson,STEPS,A straight angle is 180°.,ऋजु कोण 180° का होता है।
+Lesson,STEPS,Turn from the right side to the left side. That is half of a full turn. It is called a **straight angle**. A straight angle is 180°.,दाईं ओर से बाईं ओर तक घूमो। यह पूरे घुमाव का आधा है। इसे **ऋजु कोण** कहते हैं। ऋजु कोण 180° का होता है।
+Lesson,STEPS,Straight angle = 180°,ऋजु कोण = 180°
+Lesson,STEPS,Adjacent angles.,आसन्न कोण।
+Lesson,STEPS,Orange and blue share the green arm. Angles that share an arm are called **adjacent** angles.,"नारंगी और नीला कोण हरी भुजा को साझा करते हैं। जो कोण एक भुजा साझा करते हैं, उन्हें **आसन्न** कोण कहते हैं।"
+Lesson,STEPS,One new word,एक नया शब्द
+Lesson,STEPS,Do they share the vertex too?,क्या वे शीर्ष भी साझा करते हैं?
+Lesson,STEPS,Yes. Adjacent angles share the vertex **and** one arm. They do not overlap.,हाँ। आसन्न कोण शीर्ष **और** एक भुजा साझा करते हैं। वे एक-दूसरे के ऊपर नहीं आते।
+Lesson,STEPS,A linear pair.,रैखिक युग्म।
+Lesson,STEPS,The two outer arms make one straight line. Adjacent angles like this are called a **linear pair**.,दोनों बाहरी भुजाएँ मिलकर एक सीधी रेखा बनाती हैं। ऐसे आसन्न कोणों को **रैखिक युग्म** कहते हैं।
+Lesson,STEPS,Adjacent + outer arms make a straight line = linear pair,आसन्न + बाहरी भुजाएँ सीधी रेखा बनाएँ = रैखिक युग्म
+Lesson,STEPS,Is every pair of adjacent angles a linear pair?,क्या आसन्न कोणों का हर जोड़ा रैखिक युग्म होता है?
+Lesson,STEPS,**No.** Only when the outer arms make a straight line. Let’s check some.,"**नहीं।** केवल तब, जब बाहरी भुजाएँ एक सीधी रेखा बनाएँ। चलो, कुछ जाँचकर देखते हैं।"
+Lesson,STEPS,Is this a linear pair?,क्या यह रैखिक युग्म है?
+Lesson,STEPS,Do the outer arms make one straight line?,क्या बाहरी भुजाएँ मिलकर एक सीधी रेखा बनाती हैं?
+Lesson,STEPS,mode:'Check',mode:'जाँचो'
+Lesson,STEPS,"choices:[['Yes','Look again at the outer arms. They bend. They do **not** make a straight line. So this is **not** a linear pair.'],['No','Right. The outer arms bend. They do **not** make a straight line. This is **not** a linear pair.']],correct:'No',hint:'∠1 + ∠2 = 55° + 100° = 155°. A linear pair makes 180°.',success:'The outer arms do not make a straight line. Not a linear pair.'","choices:[['हाँ','बाहरी भुजाओं को फिर से देखो। वे मुड़ी हुई हैं। वे सीधी रेखा **नहीं** बनातीं। इसलिए यह रैखिक युग्म **नहीं** है।'],['नहीं','सही। बाहरी भुजाएँ मुड़ी हुई हैं। वे सीधी रेखा **नहीं** बनातीं। यह रैखिक युग्म **नहीं** है।']],correct:'नहीं',hint:'∠1 + ∠2 = 55° + 100° = 155°। रैखिक युग्म का योग 180° होता है।',success:'बाहरी भुजाएँ सीधी रेखा नहीं बनातीं। यह रैखिक युग्म नहीं है।'"
+Lesson,STEPS,Is this a linear pair?,क्या यह रैखिक युग्म है?
+Lesson,STEPS,A linear pair needs a shared arm **and** outer arms that make a straight line. Is this a linear pair?,"रैखिक युग्म के लिए एक साझा भुजा **और** सीधी रेखा बनाती बाहरी भुजाएँ, दोनों चाहिए। क्या यह रैखिक युग्म है?"
+Lesson,STEPS,"choices:[['Yes','Look at the gap. Orange and blue do **not** share an arm. So this is **not** a linear pair.'],['No','Right. There is a gap. They do **not** share an arm. This is **not** a linear pair.']],correct:'No',hint:'Linear pair = a shared arm **and** outer arms that make 180°.'","choices:[['हाँ','बीच की खाली जगह को देखो। नारंगी और नीला कोई भुजा साझा **नहीं** करते। इसलिए यह रैखिक युग्म **नहीं** है।'],['नहीं','सही। बीच में खाली जगह है। वे कोई भुजा साझा **नहीं** करते। यह रैखिक युग्म **नहीं** है।']],correct:'नहीं',hint:'रैखिक युग्म = एक साझा भुजा **और** 180° बनाती बाहरी भुजाएँ।'"
+Lesson,STEPS,A linear pair adds up to 180°.,रैखिक युग्म का योग 180° होता है।
+Lesson,STEPS,Together they make the straight angle. So the angles of a linear pair always add up to 180°.,दोनों मिलकर ऋजु कोण बनाते हैं। इसलिए रैखिक युग्म के कोणों का योग हमेशा 180° होता है।
+Lesson,STEPS,The rule,नियम
+Lesson,STEPS,Move the arm.,भुजा को घुमाओ।
+Lesson,STEPS,Slide the arm. Does the sum ever change?,भुजा को खिसकाओ। क्या योग कभी बदलता है?
+Lesson,STEPS,Try it,करके देखो
+Lesson,STEPS,Can both angles be equal?,क्या दोनों कोण बराबर हो सकते हैं?
+Lesson,STEPS,Yes. Try 90°. Then both angles are 90°. 90° + 90° = 180°.,हाँ। 90° करके देखो। तब दोनों कोण 90° के होंगे। 90° + 90° = 180°।
+Lesson,STEPS,How to find a missing angle.,छूटा हुआ कोण कैसे ज्ञात करें।
+Lesson,STEPS,"Watch the board. ∠1 and ∠2 are a linear pair, so they add up to 180°. We take away the angle we know.","बोर्ड को देखो। ∠1 और ∠2 रैखिक युग्म हैं, इसलिए इनका योग 180° है। जो कोण हमें पता है, उसे हम घटा देते हैं।"
+Lesson,STEPS,Watch me,मुझे करते देखो
+Lesson,STEPS,Why take away?,घटाते क्यों हैं?
+Lesson,STEPS,We know the whole: 180°. We know one part: 65°. Take away the part you know. What is left is the other part.,"हमें पूरा पता है: 180°। हमें एक भाग पता है: 65°। जो भाग पता है, उसे घटा दो। जो बचता है, वही दूसरा भाग है।"
+Lesson,STEPS,Find ∠2 with me.,मेरे साथ ∠2 ज्ञात करो।
+Lesson,STEPS,∠1 and ∠2 are a linear pair. Do the last step on the board.,∠1 और ∠2 रैखिक युग्म हैं। बोर्ड पर आख़िरी चरण तुम करो।
+Lesson,STEPS,We do it together,चलो साथ में करें
+Lesson,STEPS,Which angle shares no arm?,कौन-सा कोण कोई भुजा साझा नहीं करता?
+Lesson,STEPS,Look at the arms of ∠1. Tap the angle that shares **no** arm with it.,∠1 की भुजाओं को देखो। उस कोण पर टैप करो जो इसके साथ **कोई भी** भुजा साझा नहीं करता।
+Lesson,STEPS,mode:'Look',mode:'देखो'
+Lesson,STEPS,∠1 and ∠2 share an arm. ∠1 and ∠4 share an arm.,∠1 और ∠2 एक भुजा साझा करते हैं। ∠1 और ∠4 एक भुजा साझा करते हैं।
+Lesson,STEPS,Yes. ∠3 shares no arm with ∠1.,"हाँ। ∠3, ∠1 के साथ कोई भुजा साझा नहीं करता।"
+Lesson,STEPS,That angle shares an arm with ∠1. Find the angle that shares **no** arm with ∠1.,वह कोण ∠1 के साथ एक भुजा साझा करता है। वह कोण ढूँढो जो ∠1 के साथ **कोई भी** भुजा साझा नहीं करता।
+Lesson,STEPS,Vertically opposite angles.,शीर्षाभिमुख कोण।
+Lesson,STEPS,"∠1 and ∠3 share the vertex, but **no** arm. They are called **vertically opposite** angles. ∠2 and ∠4 are vertically opposite too.","∠1 और ∠3 शीर्ष साझा करते हैं, पर **कोई** भुजा नहीं। इन्हें **शीर्षाभिमुख** कोण कहते हैं। ∠2 और ∠4 भी शीर्षाभिमुख कोण हैं।"
+Lesson,STEPS,Does “vertically” mean up and down?,क्या “शीर्षाभिमुख” का मतलब ऊपर और नीचे वाले कोण है?
+Lesson,STEPS,**No.** It comes from the word **vertex**. Turn the drawing any way you like. The pairs stay the same.,**नहीं।** यह शब्द **शीर्ष** से बना है। चित्र को किसी भी तरह घुमाओ। जोड़े वही रहते हैं।
+Lesson,STEPS,Are vertically opposite angles equal? Example 1.,क्या शीर्षाभिमुख कोण बराबर होते हैं? उदाहरण 1।
+Lesson,STEPS,Let’s test it. ∠1 and ∠3 each make a linear pair with ∠2. Watch the board.,"चलो, इसे जाँचते हैं। ∠1 और ∠3, दोनों ही ∠2 के साथ रैखिक युग्म बनाते हैं। बोर्ड को देखो।"
+Lesson,STEPS,So ∠1 = ∠3,इसलिए ∠1 = ∠3
+Lesson,STEPS,Example 2.,उदाहरण 2।
+Lesson,STEPS,Find ∠3 the same way. Do the last step on the board.,इसी तरह ∠3 ज्ञात करो। बोर्ड पर आख़िरी चरण तुम करो।
+Lesson,STEPS,"∠3 + ∠2 = 180°, so ∠3 = 180° − 140°","∠3 + ∠2 = 180°, इसलिए ∠3 = 180° − 140°"
+Lesson,STEPS,Example 3.,उदाहरण 3।
+Lesson,STEPS,Find the size of ∠3 on your own.,∠3 का माप ख़ुद ज्ञात करो।
+Lesson,STEPS,On your own,ख़ुद करो
+Lesson,STEPS,"∠3 + ∠2 = 180°, so ∠3 = 180° − 105°","∠3 + ∠2 = 180°, इसलिए ∠3 = 180° − 105°"
+Lesson,STEPS,"∠3 + ∠2 = 180°, so ∠3 = 180° − 105°","∠3 + ∠2 = 180°, इसलिए ∠3 = 180° − 105°"
+Lesson,STEPS,Look for the pattern.,पैटर्न ढूँढो।
+Lesson,STEPS,"Each time, we took the same ∠2 away from 180°. Each time, ∠1 and ∠3 came out **equal**.",हर बार हमने 180° में से वही ∠2 घटाया। हर बार ∠1 और ∠3 **बराबर** निकले।
+Lesson,STEPS,Do three examples prove it?,क्या तीन उदाहरणों से यह सिद्ध हो जाता है?
+Lesson,STEPS,"**No.** Three examples are three cases. Next, we prove it with no numbers.",**नहीं।** तीन उदाहरण बस तीन स्थितियाँ हैं। आगे हम इसे बिना संख्याओं के सिद्ध करेंगे।
+Lesson,STEPS,Proof: ∠1 = ∠3,प्रमाण: ∠1 = ∠3
+Lesson,STEPS,"This time we use no numbers. ∠1 and ∠3 are both 180° − ∠2. So ∠1 = ∠3, whatever the value of ∠2. Vertically opposite angles are always **equal**.","इस बार हम कोई संख्या नहीं लेंगे। ∠1 और ∠3, दोनों 180° − ∠2 हैं। इसलिए ∠1 = ∠3, चाहे ∠2 का मान कुछ भी हो। शीर्षाभिमुख कोण हमेशा **बराबर** होते हैं।"
+Lesson,STEPS,Why are ∠1 and ∠3 equal?,∠1 और ∠3 बराबर क्यों हैं?
+Lesson,STEPS,Pick the reason.,सही कारण चुनो।
+Lesson,STEPS,Both are 180° minus ∠2,दोनों 180° घटा ∠2 हैं
+Lesson,STEPS,"Yes. The same 180°, minus the same ∠2. So ∠1 and ∠3 are equal.","हाँ। वही 180°, उसमें से वही ∠2 घटाया। इसलिए ∠1 और ∠3 बराबर हैं।"
+Lesson,STEPS,They look the same,वे एक जैसे दिखते हैं
+Lesson,STEPS,They do look the same. But looking can trick us. The real reason: both are 180° minus ∠2.,वे एक जैसे दिखते तो हैं। पर देखने में धोखा हो सकता है। असली कारण: दोनों 180° घटा ∠2 हैं।
+Lesson,STEPS,All four angles are equal,चारों कोण बराबर हैं
+Lesson,STEPS,**No.** Not here. Vertically opposite angles are always equal. But ∠1 and ∠2 are different.,**नहीं।** यहाँ नहीं। शीर्षाभिमुख कोण हमेशा बराबर होते हैं। पर ∠1 और ∠2 अलग-अलग हैं।
+Lesson,STEPS,Both are 180° minus ∠2,दोनों 180° घटा ∠2 हैं
+Lesson,STEPS,∠1 = 180° − ∠2 and ∠3 = 180° − ∠2,∠1 = 180° − ∠2 और ∠3 = 180° − ∠2
+Lesson,STEPS,When are all four equal?,चारों कोण कब बराबर होते हैं?
+Lesson,STEPS,Slide the arm. Find a size where all four angles are equal.,भुजा को खिसकाओ। ऐसा माप ढूँढो जिस पर चारों कोण बराबर हों।
+Lesson,STEPS,Which rule?,कौन-सा नियम?
+Lesson,STEPS,"We want ∠3. Are ∠1 and ∠3 a linear pair, or vertically opposite?","हमें ∠3 चाहिए। ∠1 और ∠3 रैखिक युग्म हैं, या शीर्षाभिमुख?"
+Lesson,STEPS,"Vertically opposite, so equal","शीर्षाभिमुख, इसलिए बराबर"
+Lesson,STEPS,Yes. They share **no** arm. They are vertically opposite. So ∠3 is also 72°.,हाँ। वे **कोई** भुजा साझा नहीं करते। वे शीर्षाभिमुख हैं। इसलिए ∠3 भी 72° है।
+Lesson,STEPS,"A linear pair, so they add up to 180°","रैखिक युग्म, इसलिए योग 180°"
+Lesson,STEPS,"A linear pair shares an arm. ∠1 and ∠3 share **no** arm. They are vertically opposite, so they are equal.","रैखिक युग्म में एक भुजा साझा होती है। ∠1 और ∠3 **कोई** भुजा साझा नहीं करते। वे शीर्षाभिमुख हैं, इसलिए बराबर हैं।"
+Lesson,STEPS,"Vertically opposite, so equal","शीर्षाभिमुख, इसलिए बराबर"
+Lesson,STEPS,"Linear pair: a shared arm, ∠1 + ∠2 = 180°. Vertically opposite: **no** shared arm, ∠1 = ∠3.","रैखिक युग्म: एक साझा भुजा, ∠1 + ∠2 = 180°। शीर्षाभिमुख: **कोई** साझा भुजा नहीं, ∠1 = ∠3।"
+Lesson,STEPS,Find ∠3 with me.,मेरे साथ ∠3 ज्ञात करो।
+Lesson,STEPS,∠3 is vertically opposite to ∠1. Do the last step on the board.,"∠3, ∠1 का शीर्षाभिमुख कोण है। बोर्ड पर आख़िरी चरण तुम करो।"
+Lesson,STEPS,∠1 and ∠3 are vertically opposite.,∠1 और ∠3 शीर्षाभिमुख कोण हैं।
+Lesson,STEPS,One measurement can give all four.,एक माप से चारों कोण मिल सकते हैं।
+Lesson,STEPS,"One angle was measured. The roads are straight, so we can find the other three.","एक कोण मापा गया है। सड़कें सीधी हैं, इसलिए हम बाकी तीन कोण ज्ञात कर सकते हैं।"
+Lesson,STEPS,Use the rules,नियमों का उपयोग करो
+Lesson,STEPS,Would this work on a bending road?,क्या यह मुड़ी हुई सड़क पर भी काम करेगा?
+Lesson,STEPS,**No.** Our two rules need two straight lines. A bending road is not a straight line.,**नहीं।** हमारे दोनों नियमों के लिए दो सीधी रेखाएँ चाहिए। मुड़ी हुई सड़क सीधी रेखा नहीं होती।
+Lesson,STEPS,Find ∠2.,∠2 ज्ञात करो।
+Lesson,STEPS,∠1 and ∠2 are a linear pair. Find the size of ∠2.,∠1 और ∠2 रैखिक युग्म हैं। ∠2 का माप ज्ञात करो।
+Lesson,STEPS,Find it · 1 of 3,ज्ञात करो · 3 में से 1
+Lesson,STEPS,Find ∠3.,∠3 ज्ञात करो।
+Lesson,STEPS,∠3 is vertically opposite to ∠1. Find the size of ∠3.,"∠3, ∠1 का शीर्षाभिमुख कोण है। ∠3 का माप ज्ञात करो।"
+Lesson,STEPS,Find it · 2 of 3,ज्ञात करो · 3 में से 2
+Lesson,STEPS,Find ∠4.,∠4 ज्ञात करो।
+Lesson,STEPS,"Find the size of ∠4. You can use the vertically opposite angle, or a linear pair.","∠4 का माप ज्ञात करो। तुम शीर्षाभिमुख कोण का उपयोग कर सकते हो, या रैखिक युग्म का।"
+Lesson,STEPS,Find it · 3 of 3,ज्ञात करो · 3 में से 3
+Lesson,STEPS,"∠4 = ∠2, or ∠4 = 180° − 60°","∠4 = ∠2, या ∠4 = 180° − 60°"
+Lesson,STEPS,How did you find ∠4?,तुमने ∠4 कैसे ज्ञात किया?
+Lesson,STEPS,There are two good ways. Which one did you use?,इसके दो अच्छे तरीके हैं। तुमने कौन-सा तरीका अपनाया?
+Lesson,STEPS,mode:'Compare',mode:'तुलना करो'
+Lesson,STEPS,I used the vertically opposite angle,मैंने शीर्षाभिमुख कोण का उपयोग किया
+Lesson,STEPS,Yes. ∠4 and ∠2 are vertically opposite. So ∠4 is 120°.,हाँ। ∠4 और ∠2 शीर्षाभिमुख हैं। इसलिए ∠4 का माप 120° है।
+Lesson,STEPS,I took 60° away from 180°,मैंने 180° में से 60° घटाया
+Lesson,STEPS,Yes. ∠4 and ∠1 are a linear pair. 180° − 60° = 120°.,हाँ। ∠4 और ∠1 रैखिक युग्म हैं। 180° − 60° = 120°।
+Lesson,STEPS,Show me both,मुझे दोनों तरीके दिखाओ
+Lesson,STEPS,"Vertically opposite: ∠4 equals ∠2, so 120°. Linear pair: 180° − 60° = 120°. Both ways give 120°.","शीर्षाभिमुख: ∠4, ∠2 के बराबर है, इसलिए 120°। रैखिक युग्म: 180° − 60° = 120°। दोनों तरीकों से 120° ही आता है।"
+Lesson,STEPS,Find ∠2 on your own.,∠2 ख़ुद ज्ञात करो।
+Lesson,STEPS,∠1 and ∠2 are a linear pair. Find the size of ∠2.,∠1 और ∠2 रैखिक युग्म हैं। ∠2 का माप ज्ञात करो।
+Lesson,STEPS,Find ∠3 on your own.,∠3 ख़ुद ज्ञात करो।
+Lesson,STEPS,∠3 is vertically opposite to ∠1. Find the size of ∠3.,"∠3, ∠1 का शीर्षाभिमुख कोण है। ∠3 का माप ज्ञात करो।"
+Lesson,JS,"const chapters = ['Notice','Make sense','Connect','Use it'];","const chapters = ['देखो','समझो','जोड़ो','उपयोग करो'];"
+Lesson,JS,"class=""diagram-note"">Library</text>","class=""diagram-note"">पुस्तकालय</text>"
+Lesson,JS,Community centre,सामुदायिक भवन
+Lesson,JS,LIBRARY ROAD,पुस्तकालय मार्ग
+Lesson,JS,PARK ROAD,पार्क मार्ग
+Lesson,JS,Top-down map of two straight neighbourhood roads crossing at sixty degrees.,मोहल्ले की दो सीधी सड़कों का ऊपर से दिखता नक्शा। सड़कें साठ डिग्री पर एक-दूसरे को काटती हैं।
+Lesson,JS,Angle ${a.id},कोण ${a.id}
+Lesson,JS,"armlab"" x=""${lab[0]}"" y=""${lab[1]}"">arm</text>","armlab"" x=""${lab[0]}"" y=""${lab[1]}"">भुजा</text>"
+Lesson,JS,"<text class=""teach-label vxlab"" x=""300"" y=""275"">vertex</text>","<text class=""teach-label vxlab"" x=""300"" y=""275"">शीर्ष</text>"
+Lesson,JS,This browser cannot read aloud. Everything is written on the screen.,यह ब्राउज़र पढ़कर नहीं सुना सकता। सब कुछ स्क्रीन पर लिखा है।
+Lesson,JS,♫ Listen,♫ सुनो
+Lesson,JS,■ Stop,■ रोको
+Lesson,JS,".replace(/∠/g,'angle ').replace(/°/g,' degrees ').replace(/−/g,' minus ').replace(/=/g,' equals '));u.lang='en-IN';",".replace(/∠/g,'कोण ').replace(/°/g,' डिग्री ').replace(/−/g,' घटा ').replace(/\+/g,' जोड़ ').replace(/=/g,' बराबर '));u.lang='hi-IN';"
+Lesson,JS,k.split(/(?<=[.?!])\s+/),k.split(/(?<=[.?!।])\s+/)
+Lesson,JS,"${s.explore?'Adjustable model':'Mathematical sketch'}: ${s.kind||'cross'}, with angle regions labelled. ${s.unknown&&!state.solved?'Find angle '+s.unknown+'.':''}","${s.explore?'बदला जा सकने वाला मॉडल':'गणितीय चित्र'}: ${s.kind||'cross'}, कोणों के हिस्सों पर नाम लिखे हैं। ${s.unknown&&!state.solved?'कोण '+s.unknown+' ज्ञात करो।':''}"
+Lesson,JS,Missing angle in degrees,"छूटा हुआ कोण, डिग्री में"
+Lesson,JS,Missing angle in degrees,"छूटा हुआ कोण, डिग्री में"
+Lesson,JS,Check ✓,जाँचो ✓
+Lesson,JS,Type a whole number.,एक पूर्ण संख्या लिखो।
+Lesson,JS,Let’s learn,चलो सीखें
+Lesson,JS,The map with our drawing on top.,नक्शे के ऊपर हमारा चित्र।
+Lesson,JS,Our drawing.,हमारा चित्र।
+Lesson,JS,THE MAP,नक्शा
+Lesson,JS,MAP + DRAWING,नक्शा + चित्र
+Lesson,JS,MOVE THE ARM,भुजा घुमाओ
+Lesson,JS,OUR DRAWING,हमारा चित्र
+Lesson,JS,The real roads,असली सड़कें
+Lesson,JS,Slide the arm,भुजा खिसकाओ
+Lesson,JS,Two straight lines,दो सीधी रेखाएँ
+Lesson,JS,Finish lesson  →,पाठ पूरा करो  →
+Lesson,JS,Continue  →,आगे बढ़ो  →
+Lesson,JS,Done. Tap Continue.,हो गया। “आगे बढ़ो” पर टैप करो।
+Lesson,JS,Check my thinking,मेरा उत्तर जाँचो
+Lesson,JS,Slide the dot. Or tap a number.,बिंदु को खिसकाओ। या कोई संख्या टैप करो।
+Lesson,JS,Both angles are 90°. They are equal. 90° + 90° = 180°.,दोनों कोण 90° के हैं। वे बराबर हैं। 90° + 90° = 180°।
+Lesson,JS,The two angles changed. The sum is still 180°.,दोनों कोण बदल गए। योग अब भी 180° है।
+Lesson,JS,Angles ${pair.join(' and ')},कोण ${pair.join(' और ')}
+Lesson,JS,∠${pair[0]} and ∠${pair[1]} are vertically opposite.,∠${pair[0]} और ∠${pair[1]} शीर्षाभिमुख कोण हैं।
+Lesson,JS,Yes. ${180-target}° + ${target}° = 180°. A linear pair adds up to 180°.,हाँ। ${180-target}° + ${target}° = 180°। रैखिक युग्म का योग 180° होता है।
+Lesson,JS,Yes. ∠${s.unknown} is ${target}°. Vertically opposite angles are equal.,हाँ। ∠${s.unknown} का माप ${target}° है। शीर्षाभिमुख कोण बराबर होते हैं।
+Lesson,JS,${value}° is the angle you know. Linear pair: ∠${s.unknown} = 180° − ${180-target}°,${value}° तो वह कोण है जो तुम्हें पता है। रैखिक युग्म: ∠${s.unknown} = 180° − ${180-target}°
+Lesson,JS,${value}° is an **adjacent** angle. Vertically opposite: ∠${s.unknown} = ∠${pr},${value}° एक **आसन्न** कोण है। शीर्षाभिमुख: ∠${s.unknown} = ∠${pr}
+Lesson,JS,Linear pair: ∠${s.unknown} = 180° − ${180-target}°,रैखिक युग्म: ∠${s.unknown} = 180° − ${180-target}°
+Lesson,JS,Vertically opposite: ∠${s.unknown} = ∠${pr},शीर्षाभिमुख: ∠${s.unknown} = ∠${pr}
+Lesson,JS,The two coloured angles are vertically opposite.,दोनों रंगीन कोण शीर्षाभिमुख हैं।
+Lesson,JS,Orange and blue make a straight line.,नारंगी और नीला मिलकर एक सीधी रेखा बनाते हैं।
+Lesson,JS,The two coloured angles are vertically opposite.,दोनों रंगीन कोण शीर्षाभिमुख हैं।
+Lesson,JS,The steps are on the board now.,अब सारे चरण बोर्ड पर लिखे हैं।
+Lesson,JS,"Tap “Give me a hint”, then try again.","“मुझे संकेत दो” पर टैप करो, फिर से कोशिश करो।"
+Lesson,JS,You answered ${answered} questions. Remember the two rules when you try the practice rounds.,तुमने ${answered} प्रश्नों के उत्तर दिए। अभ्यास के राउंड खेलते समय दोनों नियम याद रखना।
+Lesson,JS,${s.hint}. So ∠${s.unknown} = ${answerValue()}°.,${s.hint}। इसलिए ∠${s.unknown} = ${answerValue()}°।
+Lesson,JS,Voice on,आवाज़ चालू
+Lesson,JS,Voice off,आवाज़ बंद
+Lesson,JS,Want a hint?,संकेत चाहिए?
+Lesson,JS,Hear Swiftee again,स्विफ़्टी को फिर से सुनो
+Lesson,JS,Turn your tablet sideways to continue.,आगे बढ़ने के लिए टैबलेट को आड़ा (लेटा हुआ) करो।
+Lesson,JS,"$('#back').setAttribute('aria-label','Back')","$('#back').setAttribute('aria-label','पीछे')"
+Lesson,JS,"$('#sound').setAttribute('aria-label','Voice')","$('#sound').setAttribute('aria-label','आवाज़')"
+Practice,HTML,"<html lang=""en"">","<html lang=""hi"">"
+Practice,HTML,Swiftee at the Crossroads,चौराहे पर स्विफ़्टी
+Practice,HTML,Mathematical sketch · different examples,गणितीय चित्र · अलग-अलग उदाहरण
+Practice,HTML,← Learn with Swiftee,← स्विफ़्टी के साथ सीखो
+Practice,HTML,"<div class=""bigtitle"">Swiftee at the<br>Crossroads</div>","<div class=""bigtitle"">चौराहे पर<br>स्विफ़्टी</div>"
+Practice,HTML,Use the angle relationships to complete Swiftee’s mathematical sketches.,कोणों के संबंधों का उपयोग करके स्विफ़्टी के गणितीय चित्र पूरे करो।
+Practice,HTML,"<button class=""primary play"" id=""playBtn"">Play</button>","<button class=""primary play"" id=""playBtn"">खेलो</button>"
+Practice,HTML,"Turn your sound on. Grade 8 · adjacent angles, linear pairs, vertically opposite angles","आवाज़ चालू करो। कक्षा 8 · आसन्न कोण, रैखिक युग्म, शीर्षाभिमुख कोण"
+Practice,HTML,"<button id=""skipIntro"">Skip</button>","<button id=""skipIntro"">छोड़ो</button>"
+Practice,HTML,Find the pair,जोड़ा ढूँढो
+Practice,HTML,Round 1 of 8,राउंड 1 / 8
+Practice,HTML,"<span class=""pill probe"" id=""probePill"" hidden>Probe</span>","<span class=""pill probe"" id=""probePill"" hidden>जाँच प्रश्न</span>"
+Practice,HTML,Line 1 · a linear pair,पंक्ति 1 · एक रैखिक युग्म
+Practice,HTML,Line 2 · a linear pair with the same angle,पंक्ति 2 · उसी कोण के साथ एक रैखिक युग्म
+Practice,HTML,"<div class=""lab"">So</div>","<div class=""lab"">इसलिए</div>"
+Practice,HTML,Sound on,आवाज़ चालू
+Practice,HTML,"<button id=""replayBtn"">Replay</button>","<button id=""replayBtn"">फिर से सुनो</button>"
+Practice,HTML,"<button id=""skipBtn"">Skip</button>","<button id=""skipBtn"">छोड़ो</button>"
+Practice,HTML,"<button id=""nextBtn"" class=""primary"" disabled>Next</button>","<button id=""nextBtn"" class=""primary"" disabled>आगे</button>"
+Practice,HTML,"<button id=""evBtn"">Evidence</button>","<button id=""evBtn"">साक्ष्य</button>"
+Practice,HTML,Signboards restored,सारे साइनबोर्ड वापस लग गए
+Practice,HTML,Play again,फिर से खेलो
+Practice,JS,Identifies adjacent angles,आसन्न कोण पहचानना
+Practice,JS,Identifies linear pairs,रैखिक युग्म पहचानना
+Practice,JS,Identifies the vertically opposite angle,शीर्षाभिमुख कोण पहचानना
+Practice,JS,Finds an angle from its linear pair,रैखिक युग्म से कोण ज्ञात करना
+Practice,JS,Finds an angle from its vertically opposite angle,शीर्षाभिमुख कोण से कोण ज्ञात करना
+Practice,JS,Finds an angle in two numeric steps,दो संख्यात्मक चरणों में कोण ज्ञात करना
+Practice,JS,Finds an angle given as an expression,व्यंजक के रूप में दिया कोण ज्ञात करना
+Practice,JS,Justifies that vertically opposite angles are equal,शीर्षाभिमुख कोणों के बराबर होने का कारण बताना
+Practice,JS,"const REL={vo:'vertically opposite',lp:'a linear pair',adj:'adjacent'};","const REL={vo:'शीर्षाभिमुख',lp:'रैखिक युग्म',adj:'आसन्न'};"
+Practice,JS,Which angle is  vertically opposite  to ${hl}?,${hl} का  शीर्षाभिमुख  कोण कौन-सा है?
+Practice,JS,Which angle${all?'s form':' forms'} a  linear pair  with ${hl}?,कौन-${all?'से कोण':'सा कोण'} ${hl} के साथ  रैखिक युग्म  ${all?'बनाते हैं':'बनाता है'}?
+Practice,JS,Which angle${all?'s are':' is'}  adjacent  to ${hl}?,कौन-${all?'से कोण':'सा कोण'} ${hl} के  आसन्न  ${all?'हैं':'है'}?
+Practice,JS,Find the pair,जोड़ा ढूँढो
+Practice,JS,"Two roads cross at this junction. Angle 1 is lit. Which angle is vertically opposite to it? Across the point, angle 3.","इस चौराहे पर दो सड़कें एक-दूसरे को काटती हैं। कोण 1 चमक रहा है। इसका शीर्षाभिमुख कोण कौन-सा है? बिंदु के उस पार, कोण 3।"
+Practice,JS,Vertically opposite: across the point,शीर्षाभिमुख: बिंदु के उस पार
+Practice,JS,Which angle forms a linear pair with angle 1? Angle 2. Their outer arms make one straight road.,"कौन-सा कोण, कोण 1 के साथ रैखिक युग्म बनाता है? कोण 2। इनकी बाहरी भुजाएँ मिलकर एक सीधी सड़क बनाती हैं।"
+Practice,JS,Linear pair: outer arms make one straight line,रैखिक युग्म: बाहरी भुजाएँ एक सीधी रेखा बनाती हैं
+Practice,JS,Follow the road straight through the crossing point. The angle on the other side is vertically opposite.,सड़क के साथ-साथ सीधे काटने वाले बिंदु के पार जाओ। दूसरी ओर वाला कोण शीर्षाभिमुख है।
+Practice,JS,A linear pair sits on one straight road. Look for the angle next to it whose other arm continues the same road.,रैखिक युग्म एक ही सीधी सड़क पर होता है। इसके बगल वाला वह कोण ढूँढो जिसकी दूसरी भुजा उसी सड़क को आगे बढ़ाती है।
+Practice,JS,"Adjacent angles share the corner point and one arm, and they do not overlap.","आसन्न कोण कोने का बिंदु और एक भुजा साझा करते हैं, और एक-दूसरे के ऊपर नहीं आते।"
+Practice,JS,Put the number back,संख्या वापस लगाओ
+Practice,JS,One signboard says 120 degrees. The other has fallen. These two angles are a linear pair. Together they make 180. So the missing one is 60.,एक साइनबोर्ड पर 120 डिग्री लिखा है। दूसरा गिर गया है। ये दोनों कोण रैखिक युग्म हैं। दोनों मिलकर 180 बनाते हैं। इसलिए छूटा हुआ कोण 60 है।
+Practice,JS,Linear pair: the two angles add to 180°,रैखिक युग्म: दोनों कोणों का योग 180° है
+Practice,JS,"Here angle 1 is 90 degrees. Angle 3 is across the point, vertically opposite. Vertically opposite angles are equal. So angle 3 is 90.","यहाँ कोण 1, 90 डिग्री का है। कोण 3 बिंदु के उस पार है, यानी शीर्षाभिमुख। शीर्षाभिमुख कोण बराबर होते हैं। इसलिए कोण 3 भी 90 है।"
+Practice,JS,Vertically opposite angles are equal,शीर्षाभिमुख कोण बराबर होते हैं
+Practice,JS,"Are these two angles across the crossing point, or on one straight road? Across the point means equal. One straight road means they add to 180.","क्या ये दोनों कोण बिंदु के आर-पार हैं, या एक ही सीधी सड़क पर? आर-पार का मतलब बराबर। एक सीधी सड़क का मतलब योग 180।"
+Practice,JS,Why are they equal?,ये बराबर क्यों हैं?
+Practice,JS,"Why are angle 1 and angle 3 equal? Angle 1 and angle 2 are a linear pair, they make 180. Angle 3 and angle 2 are also a linear pair, they make 180, with the same angle 2. So angle 1 equals angle 3.","कोण 1 और कोण 3 बराबर क्यों हैं? कोण 1 और कोण 2 रैखिक युग्म हैं, ये मिलकर 180 बनाते हैं। कोण 3 और कोण 2 भी रैखिक युग्म हैं, ये भी उसी कोण 2 के साथ 180 बनाते हैं। इसलिए कोण 1, कोण 3 के बराबर है।"
+Practice,JS,Two linear pairs with the same angle,एक ही कोण वाले दो रैखिक युग्म
+Practice,JS,"Two linear pairs, one shared angle. Both straight roads pass through the same angle. Put those two lines first, then the conclusion.","दो रैखिक युग्म, एक साझा कोण। दोनों सीधी सड़कें उसी कोण से होकर जाती हैं। पहले वे दो पंक्तियाँ रखो, फिर निष्कर्ष।"
+Practice,JS,Two steps to the star,तारे तक दो चरण
+Practice,JS,"The star signboard cannot be read from angle 1 in one step. First, angle 3 is vertically opposite to angle 1, so it is 40. Then angle 3, angle 4 and the star sit on one straight road. 40 plus 30 plus the star make 180. The star is 110.","तारे वाला साइनबोर्ड कोण 1 से एक ही चरण में नहीं निकलता। पहले, कोण 3, कोण 1 का शीर्षाभिमुख है, इसलिए यह 40 है। फिर कोण 3, कोण 4 और तारा एक ही सीधी सड़क पर हैं। 40 जोड़ 30 जोड़ तारा मिलकर 180 बनाते हैं। तारा 110 है।"
+Practice,JS,"When one step is not enough, find a neighbour first","जब एक चरण काफ़ी न हो, तो पहले पड़ोसी कोण ज्ञात करो"
+Practice,JS,"Here the signboards show expressions. 2x and x plus 30 are a linear pair, so 2x plus x plus 30 equals 180. That gives x equals 50. The star is 2x, which is 100.","यहाँ साइनबोर्ड पर व्यंजक लिखे हैं। 2x और x जोड़ 30 रैखिक युग्म हैं, इसलिए 2x जोड़ x जोड़ 30 बराबर 180। इससे x बराबर 50 मिलता है। तारा 2x है, यानी 100।"
+Practice,JS,"Write the property as an equation, solve for x, then substitute","गुण को समीकरण के रूप में लिखो, x का मान निकालो, फिर उसे रखो"
+Practice,JS,"Which property joins these two expressions? Write it as an equation, then solve for x.","कौन-सा गुण इन दोनों व्यंजकों को जोड़ता है? इसे समीकरण के रूप में लिखो, फिर x का मान निकालो।"
+Practice,JS,Which angle can you find right now from what is given? Find that one first.,"जो दिया है, उससे तुम अभी कौन-सा कोण ज्ञात कर सकते हो? पहले वही ज्ञात करो।"
+Practice,JS,Now you try.,अब तुम करो।
+Practice,JS,Now you try.,अब तुम करो।
+Practice,JS,Round ${ST.round+1} of ${ST.rounds.length},राउंड ${ST.round+1} / ${ST.rounds.length}
+Practice,JS,"Fill the signboards. Find the empty angle first, then the star.","साइनबोर्ड भरो। पहले खाली कोण ज्ञात करो, फिर तारा।"
+Practice,JS,Drag the right number to the empty signboard.,सही संख्या को खींचकर खाली साइनबोर्ड पर रखो।
+Practice,JS,One step or two? You decide.,एक चरण या दो? तुम तय करो।
+Practice,JS,Why is ${a} equal to ${b}? Build the argument.,"${a}, ${b} के बराबर क्यों है? तर्क बनाओ।"
+Practice,JS,roundDone(r.tapAll?`Yes. ${r.correct.join(' and ')}.`:`Yes. ${id} is ${REL[r.rel]} ${r.rel==='adj'?'to':r.rel==='lp'?'with':'to'} ${r.highlight}.`),"roundDone(r.tapAll?`हाँ। ${r.correct.join(' और ')}।`:r.rel==='lp'?`हाँ। ${id}, ${r.highlight} के साथ ${REL[r.rel]} बनाता है।`:`हाँ। ${id}, ${r.highlight} का ${REL[r.rel]} कोण है।`)"
+Practice,JS,Good.  One more.,बढ़िया।  एक और।
+Practice,JS,Good. One more.,बढ़िया। एक और।
+Practice,JS,"ex=['Conceptual discrimination','Slip'];resp=`${id} is next to ${r.highlight}. <em>Vertically opposite</em> means across the point.`","ex=['अवधारणाओं में भेद','चूक'];resp=`${id}, ${r.highlight} के बगल में है। <em>शीर्षाभिमुख</em> का मतलब है बिंदु के उस पार।`"
+Practice,JS,Conceptual discrimination,अवधारणाओं में भेद
+Practice,JS,${id} is across the point. A  linear pair  makes one straight road.,${id} बिंदु के उस पार है।  रैखिक युग्म  एक सीधी सड़क बनाता है।
+Practice,JS,Conceptual discrimination,अवधारणाओं में भेद
+Practice,JS,Missing K3,K3 की कमी
+Practice,JS,"${id} is adjacent, but its outer arm does not continue the road.  Linear pair : the outer arms make one straight line.","${id} आसन्न है, पर इसकी बाहरी भुजा सड़क को आगे नहीं बढ़ाती।  रैखिक युग्म : बाहरी भुजाएँ एक सीधी रेखा बनाती हैं।"
+Practice,JS,Missing K2,K2 की कमी
+Practice,JS,Conceptual discrimination,अवधारणाओं में भेद
+Practice,JS,"${id} shares the corner, but it overlaps ${r.highlight}.  Adjacent : one common arm, no overlap.","${id} कोना साझा करता है, पर यह ${r.highlight} के ऊपर आ जाता है।  आसन्न : एक साझा भुजा, और एक-दूसरे के ऊपर नहीं।"
+Practice,JS,"else{ex=['Slip','Conceptual discrimination'];resp=`Not ${id}. Look at ${r.highlight} again.`}","else{ex=['चूक','अवधारणाओं में भेद'];resp=`${id} नहीं। ${r.highlight} को फिर से देखो।`}"
+Practice,JS,Procedure selection,विधि का चुनाव
+Practice,JS,"Find  x  first, in the equation.",पहले समीकरण में  x  ज्ञात करो।
+Practice,JS,First find  ${s.slot} . Then the star.,पहले  ${s.slot}  ज्ञात करो। फिर तारा।
+Practice,JS,Procedure selection,विधि का चुनाव
+Practice,JS,Conceptual discrimination,अवधारणाओं में भेद
+Practice,JS,You put the same number. ${s.partner} and ${s.slot} sit on one straight road. A  linear pair  makes 180 together.,तुमने वही संख्या रख दी। ${s.partner} और ${s.slot} एक ही सीधी सड़क पर हैं।  रैखिक युग्म  मिलकर 180 बनाता है।
+Practice,JS,Procedure selection,विधि का चुनाव
+Practice,JS,=2?'Misconception (recurring: every pair adds to 180)':'Misconception (watch for recurrence)'];resp=`${s.slot} is across the point from ${s.partner}.,"=2?'भ्रांति (बार-बार: हर जोड़े का योग 180 मानना)':'भ्रांति (दोबारा होने पर ध्यान दें)'];resp=`${s.slot}, ${s.partner} से बिंदु के उस पार है।"
+Practice,JS,Vertically opposite,शीर्षाभिमुख
+Practice,JS,"ex=['Mathematical interpretation','Recording'];resp=`180 is what the two make <em>together</em>, not the missing one.`","ex=['गणितीय अर्थ समझना','लिखने में चूक'];resp=`180 तो दोनों का <em>मिलाकर</em> योग है, छूटा हुआ कोण नहीं।`"
+Practice,JS,Mathematical interpretation,गणितीय अर्थ समझना
+Practice,JS,Procedure execution,विधि का पालन
+Practice,JS,There are  three  angles on this straight road. All three make 180.,इस सीधी सड़क पर  तीन  कोण हैं। तीनों मिलकर 180 बनाते हैं।
+Practice,JS,Procedure selection,विधि का चुनाव
+Practice,JS,Conceptual discrimination,अवधारणाओं में भेद
+Practice,JS,"These two are across the point, so they are  equal , not adding to 180. Set the expressions equal.","ये दोनों बिंदु के आर-पार हैं, इसलिए ये  बराबर  हैं, इनका योग 180 नहीं। दोनों व्यंजकों को बराबर रखो।"
+Practice,JS,"ex=['Procedure execution (K9)','Slip'];resp=`Check the solving. ${s.eqn||s.ladder} does not give x = ${v}.`","ex=['विधि का पालन (K9)','चूक'];resp=`हल को जाँचो। ${s.eqn||s.ladder} से x = ${v} नहीं मिलता।`"
+Practice,JS,"ex=['Recording','Mathematical interpretation'];resp=`That is <em>x</em>. The signboard needs the angle, in degrees.`","ex=['लिखने में चूक','गणितीय अर्थ समझना'];resp=`यह तो <em>x</em> है। साइनबोर्ड पर कोण चाहिए, डिग्री में।`"
+Practice,JS,"else{ex=['Procedure execution','Slip'];resp=s.rel==='vo'?`Look again: ${s.slot} equals ${s.partner}.`:`Check the sum: it should make 180.`;","else{ex=['विधि का पालन','चूक'];resp=s.rel==='vo'?`फिर से देखो: ${s.slot}, ${s.partner} के बराबर है।`:`योग जाँचो: यह 180 होना चाहिए।`;"
+Practice,JS,Good.  Now the next one.,बढ़िया।  अब अगला।
+Practice,JS,Good. Now the next one.,बढ़िया। अब अगला।
+Practice,JS,Yes. One step was enough.,हाँ। एक चरण काफ़ी था।
+Practice,JS,Yes. The signboard is back.,हाँ। साइनबोर्ड वापस लग गया।
+Practice,JS,→ line 1,→ पंक्ति 1
+Practice,JS,Mathematical interpretation,गणितीय अर्थ समझना
+Practice,JS,Missing K7,K7 की कमी
+Practice,JS,First the two  linear pairs . The conclusion comes last.,पहले दोनों  रैखिक युग्म । निष्कर्ष सबसे आख़िर में आता है।
+Practice,JS,→ line 1,→ पंक्ति 1
+Practice,JS,Conceptual discrimination,अवधारणाओं में भेद
+Practice,JS,${r.pair[0]} and ${r.pair[1]} are across the point. They are not a  linear pair .,${r.pair[0]} और ${r.pair[1]} बिंदु के आर-पार हैं। ये  रैखिक युग्म  नहीं हैं।
+Practice,JS,→ line 1,→ पंक्ति 1
+Practice,JS,Procedure selection,विधि का चुनाव
+Practice,JS,That line does not use ${r.pair[0]} or ${r.pair[1]}.,"इस पंक्ति में न ${r.pair[0]} है, न ${r.pair[1]}।"
+Practice,JS,"Now the second  linear pair , with the same angle.","अब दूसरा  रैखिक युग्म , उसी कोण के साथ।"
+Practice,JS,"Now the second linear pair, with the same angle.","अब दूसरा रैखिक युग्म, उसी कोण के साथ।"
+Practice,JS,→ line 2,→ पंक्ति 2
+Practice,JS,Mathematical interpretation,गणितीय अर्थ समझना
+Practice,JS,Missing K7,K7 की कमी
+Practice,JS,One more  linear pair  first. Then the conclusion.,पहले एक और  रैखिक युग्म । फिर निष्कर्ष।
+Practice,JS,→ line 2,→ पंक्ति 2
+Practice,JS,Conceptual discrimination,अवधारणाओं में भेद
+Practice,JS,"Those two are across the point, not a  linear pair .","वे दोनों बिंदु के आर-पार हैं,  रैखिक युग्म  नहीं।"
+Practice,JS,→ line 2,→ पंक्ति 2
+Practice,JS,Missing K7,K7 की कमी
+Practice,JS,Procedure selection,विधि का चुनाव
+Practice,JS,The  same angle  must be in both lines. Line 1 uses ${first.s}.,दोनों पंक्तियों में  एक ही कोण  होना चाहिए। पंक्ति 1 में ${first.s} है।
+Practice,JS,"wrong({response:st.t+' → line 2',explanations:['Slip'],say:`You already used that angle. Now the other one of the pair.`","wrong({response:st.t+' → पंक्ति 2',explanations:['चूक'],say:`यह कोण तुम पहले ही ले चुके हो। अब जोड़े का दूसरा कोण लो।`"
+Practice,JS,Both make 180 with the  same  angle. So?,दोनों  एक ही  कोण के साथ 180 बनाते हैं। तो?
+Practice,JS,Both make 180 with the same angle. So?,दोनों एक ही कोण के साथ 180 बनाते हैं। तो?
+Practice,JS,→ conclusion,→ निष्कर्ष
+Practice,JS,Mathematical interpretation,गणितीय अर्थ समझना
+Practice,JS,The last line says what follows: the two angles are  equal .,आख़िरी पंक्ति बताती है कि इससे क्या निकलता है: दोनों कोण  बराबर  हैं।
+Practice,JS,"wrong({response:st.t+' → conclusion',explanations:['Slip','Recording'],say:`Look at the two lines. Which angles both make 180 with ${l1._stmt.s}?`","wrong({response:st.t+' → निष्कर्ष',explanations:['चूक','लिखने में चूक'],say:`दोनों पंक्तियों को देखो। कौन-से कोण ${l1._stmt.s} के साथ 180 बनाते हैं?`"
+Practice,JS,"Yes. ${r.pair[0]} and ${r.pair[1]} each make 180 with ${l1._stmt.s}, so they are equal.","हाँ। ${r.pair[0]} और ${r.pair[1]}, दोनों ${l1._stmt.s} के साथ 180 बनाते हैं, इसलिए ये बराबर हैं।"
+Practice,JS,toast(ST.firstTry?'First try!':'Done'),toast(ST.firstTry?'पहली बार में सही!':'हो गया')
+Practice,JS,One more.,एक और।
+Practice,JS,One more.,एक और।
+Practice,JS,One step is enough here.,यहाँ एक चरण काफ़ी है।
+Practice,JS,One step is enough here.,यहाँ एक चरण काफ़ी है।
+Practice,JS,caption('Hint'),caption('संकेत')
+Practice,JS,Watch once more. Then you do it.,एक बार और देखो। फिर तुम करना।
+Practice,JS,Watch once more. Then you do it.,एक बार और देखो। फिर तुम करना।
+Practice,JS,Your turn.,तुम्हारी बारी।
+Practice,JS,Your turn.,तुम्हारी बारी।
+Practice,JS,· watch,· देखो
+Practice,JS,$('#skillPill').textContent='Demo',$('#skillPill').textContent='डेमो'
+Practice,JS,Two more signboards for practice.,अभ्यास के लिए दो और साइनबोर्ड।
+Practice,JS,Two more signboards for practice.,अभ्यास के लिए दो और साइनबोर्ड।
+Practice,JS,Well done.  On to the next junction.,"शाबाश।  चलो, अगले चौराहे पर।"
+Practice,JS,Well done. On to the next junction.,"शाबाश। चलो, अगले चौराहे पर।"
+Practice,JS,Skill  Rounds  First try  Errors  Hints  Probes ${compact?'':' First-try rate '} ${rows} ${compact?' Latest error episodes (response → candidate explanations) '+last:''},कौशल  राउंड  पहली बार सही  गलतियाँ  संकेत  जाँच प्रश्न ${compact?'':' पहली बार सही की दर '} ${rows} ${compact?' हाल की गलतियाँ (उत्तर → संभावित कारण) '+last:''}
+Practice,JS,>You put the relationships to work. <p style=,>तुमने इन संबंधों का सही उपयोग किया। <p style=
+Practice,JS,">You identified angle pairs, found missing measures, explained why opposite angles are equal, and linked two steps of reasoning. <p style=",">तुमने कोणों के जोड़े पहचाने, छूटे हुए माप ज्ञात किए, समझाया कि शीर्षाभिमुख कोण बराबर क्यों होते हैं, और तर्क के दो चरणों को जोड़ा। <p style="
+Practice,JS,>Keep these ideas with you: a linear pair adds to 180°. Vertically opposite angles are equal. <a href=,>ये बातें याद रखना: रैखिक युग्म का योग 180° होता है। शीर्षाभिमुख कोण बराबर होते हैं। <a href=
+Practice,JS,Revisit the lesson with Swiftee →,स्विफ़्टी के साथ पाठ फिर से देखो →
+Practice,JS,We have explored how angles at a crossroads are related.,हमने देखा कि चौराहे पर बने कोण आपस में कैसे जुड़े होते हैं।
+Practice,JS,Now we will use mathematical sketches to practise those relationships.,अब हम गणितीय चित्रों की मदद से इन संबंधों का अभ्यास करेंगे।
+Practice,JS,Each drawing is a new example. The real roads stay where they are.,हर चित्र एक नया उदाहरण है। असली सड़कें अपनी जगह पर ही रहती हैं।
+Practice,JS,Sound on,आवाज़ चालू
+Practice,JS,Sound off,आवाज़ बंद
+Practice,JS,"response:'skipped',correct:false,explanations:['Skipped by learner']","response:'छोड़ा',correct:false,explanations:['विद्यार्थी ने छोड़ा']"

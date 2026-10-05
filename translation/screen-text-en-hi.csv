@@ -64,9 +64,9 @@ Lesson,STEPS,The two sides of an angle are called **arms**. The point where the 
 Lesson,STEPS,Two new words,दो नए शब्द
 Lesson,STEPS,"If I draw the arms longer, is the angle bigger?","अगर मैं भुजाएँ लंबी कर दूँ, तो क्या कोण बड़ा हो जाएगा?"
 Lesson,STEPS,**No.** Longer arms do not change the turn. The angle stays the same.,**नहीं।** लंबी भुजाओं से घुमाव नहीं बदलता। कोण वही रहता है।
-Lesson,STEPS,A straight angle is 180°.,ऋजु कोण 180° का होता है।
-Lesson,STEPS,Turn from the right side to the left side. That is half of a full turn. It is called a **straight angle**. A straight angle is 180°.,दाईं ओर से बाईं ओर तक घूमो। यह पूरे घुमाव का आधा है। इसे **ऋजु कोण** कहते हैं। ऋजु कोण 180° का होता है।
-Lesson,STEPS,Straight angle = 180°,ऋजु कोण = 180°
+Lesson,STEPS,A straight angle is 180°.,सरल कोण 180° का होता है।
+Lesson,STEPS,Turn from the right side to the left side. That is half of a full turn. It is called a **straight angle**. A straight angle is 180°.,दाईं ओर से बाईं ओर तक घूमो। यह पूरे घुमाव का आधा है। इसे **सरल कोण** कहते हैं। सरल कोण 180° का होता है।
+Lesson,STEPS,Straight angle = 180°,सरल कोण = 180°
 Lesson,STEPS,Adjacent angles.,आसन्न कोण।
 Lesson,STEPS,Orange and blue share the green arm. Angles that share an arm are called **adjacent** angles.,"नारंगी और नीला कोण हरी भुजा को साझा करते हैं। जो कोण एक भुजा साझा करते हैं, उन्हें **आसन्न** कोण कहते हैं।"
 Lesson,STEPS,One new word,एक नया शब्द
@@ -85,7 +85,7 @@ Lesson,STEPS,Is this a linear pair?,क्या यह रैखिक यु�
 Lesson,STEPS,A linear pair needs a shared arm **and** outer arms that make a straight line. Is this a linear pair?,"रैखिक युग्म के लिए एक साझा भुजा **और** सीधी रेखा बनाती बाहरी भुजाएँ, दोनों चाहिए। क्या यह रैखिक युग्म है?"
 Lesson,STEPS,"choices:[['Yes','Look at the gap. Orange and blue do **not** share an arm. So this is **not** a linear pair.'],['No','Right. There is a gap. They do **not** share an arm. This is **not** a linear pair.']],correct:'No',hint:'Linear pair = a shared arm **and** outer arms that make 180°.'","choices:[['हाँ','बीच की खाली जगह को देखो। नारंगी और नीला कोई भुजा साझा **नहीं** करते। इसलिए यह रैखिक युग्म **नहीं** है।'],['नहीं','सही। बीच में खाली जगह है। वे कोई भुजा साझा **नहीं** करते। यह रैखिक युग्म **नहीं** है।']],correct:'नहीं',hint:'रैखिक युग्म = एक साझा भुजा **और** 180° बनाती बाहरी भुजाएँ।'"
 Lesson,STEPS,A linear pair adds up to 180°.,रैखिक युग्म का योग 180° होता है।
-Lesson,STEPS,Together they make the straight angle. So the angles of a linear pair always add up to 180°.,दोनों मिलकर ऋजु कोण बनाते हैं। इसलिए रैखिक युग्म के कोणों का योग हमेशा 180° होता है।
+Lesson,STEPS,Together they make the straight angle. So the angles of a linear pair always add up to 180°.,दोनों मिलकर सरल कोण बनाते हैं। इसलिए रैखिक युग्म के कोणों का योग हमेशा 180° होता है।
 Lesson,STEPS,The rule,नियम
 Lesson,STEPS,Move the arm.,भुजा को घुमाओ।
 Lesson,STEPS,Slide the arm. Does the sum ever change?,भुजा को खिसकाओ। क्या योग कभी बदलता है?
